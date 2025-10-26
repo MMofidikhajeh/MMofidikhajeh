@@ -25,7 +25,7 @@ I will be putting most of my class projects here, so feel free to use them as a 
 ## 📫 Let's Connect
 
 - 📧 Email: mohammad.mofidi.k@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-mofidi-khajeh-2715832b8/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-mofidikhajeh)  
 - 🌍 [Kaggle](https://www.kaggle.com/mmofidi)  
 
 ---
