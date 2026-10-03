@@ -3,9 +3,9 @@
 🎓 I'm a master's student in **Computer Science – Data Mining** at Tarbiat Modares University, with a deep interest in data science, machine learning, and deep learning.
 
 🚀 I transitioned from a background in Radiation Therapy to tech, and over the last few years, I've built hands-on experience using tools such as:
-- **Programming and Deep Learning:** Python (proficient), PyTorch, PyTorch Geometric (PyG), NetworkX, Scikit-learn, Hugging Face, OpenCV, Git, Docker
-- **Core ML & Imaging Concepts:** Computational Imaging, Inverse Problems, Image Reconstruction, 3D Volumetric Data Processing, Graph Representation Learning, Self-Supervised Learning, Knowledge Distillation, Model Compression.
-- **Data Analysis & Visualization:** Pandas, Numpy, Matplotlib, Seaborn, SQLite, UMAP.
+- **Programming and Deep Learning:** Python (proficient), PyTorch, PyTorch Geometric (PyG), NetworkX, Scikit-learn, Hugging Face, LangChain, OpenCV, Git, Docker
+- **Core ML Concepts:** Transformer architectures, representation learning, knowledge distillation, survival & predictive modeling concepts, XAI, longitudinal data analysis, RAG, reproducible pipeline design, OOD detection, metric learning, supervised contrastive learning, 
+- **Data Analysis & Visualization:** Pandas, Numpy, Matplotlib, Seaborn, SQLite, UMAP, GradCAM, SHAP.
 
 ---
 
